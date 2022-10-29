@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>history</tabid>
+    <tabname>Editorial Review</tabname>
+    <content_href>article1.part.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>season</tabid>
+    <tabname>External Reviews</tabname>
+    <content_href>tab-club2.part.html</content_href>
+    <content> </content>
+  </Tab>
+</Tabs>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>1</tabid>
+    <tabname>Platform Comparison</tabname>
+    <content_href>platforms.html</content_href>
+    <content> </content>
+  </Tab>
+</Tabs>

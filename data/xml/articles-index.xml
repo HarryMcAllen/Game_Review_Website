@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>Gran Turismo 7</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/1.png</storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary> </summary>
+    <link>game.php?id=1</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+  <Article>
+    <heading>Fifa 22</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/2.png</storyimg_href>
+    <content></content>
+    <article_href>article2.part.html</article_href>
+    <summary></summary>
+    <link>game.php?id=2</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+   <Article>
+    <heading>FORNTITE</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/3.png</storyimg_href>
+    <content></content>
+    <article_href>article3.part.html</article_href>
+    <summary></summary>
+    <link>game.php?id=3</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+  <Article>
+    <heading>NBA 2K22</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/4.png</storyimg_href>
+    <content> </content>
+    <article_href>article4.part.html</article_href>
+    <summary> </summary>
+    <link>game.php?id=4</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+   <Article>
+    <heading>News item 1</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/5.png</storyimg_href>
+    <content> </content>
+    <article_href>article5.part.html</article_href>
+    <summary> </summary>
+    <link>https://www.creativebloq.com/news/unreal-5-ps5-released</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+   <Article>
+    <heading>News item 2</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/6.png</storyimg_href>
+    <content> </content>
+    <article_href>article6.part.html</article_href>
+    <summary> </summary>
+    <link>https://www.eurogamer.net/ps5-stock-where-to-buy-playstation-5</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+</Articles>

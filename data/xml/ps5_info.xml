@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Articles>
+  <Article>
+    <heading>Gran Turismo 7</heading>
+    <tagline></tagline>
+    <storyimg_href></storyimg_href>
+    <content> </content>
+    <article_href>article1.part.html</article_href>
+    <summary> </summary>
+    <link>game.php?id=1</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+  <Article>
+    <heading>Fifa 22</heading>
+    <tagline></tagline>
+    <storyimg_href></storyimg_href>
+    <content></content>
+    <article_href>article2.part.html</article_href>
+    <summary></summary>
+    <link>game.php?id=2</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+   <Article>
+    <heading>FORNTITE</heading>
+    <tagline></tagline>
+    <storyimg_href></storyimg_href>
+    <content></content>
+    <article_href>article3.part.html</article_href>
+    <summary></summary>
+    <link>game.php?id=3</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+  <Article>
+    <heading>NBA 2K22</heading>
+    <tagline></tagline>
+    <storyimg_href></storyimg_href>
+    <content> </content>
+    <article_href>article4.part.html</article_href>
+    <summary> </summary>
+    <link>game.php?id=4</link>
+    <linktitle>Find out More...</linktitle>
+  </Article>
+  
+</Articles>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+    <tabid>1</tabid>
+    <tabname>Editorial Review</tabname>
+    <content_href>1.html</content_href>
+    <content> </content>
+  </Tab>
+  <Tab>
+    <tabid>2</tabid>
+    <tabname>External Reviews</tabname>
+    <content_href>2.html</content_href>
+    <content> </content>
+  </Tab>
+   <Tab>
+    <tabid>3</tabid>
+    <tabname>Retail Info</tabname>
+    <content_href>3.html</content_href>
+    <content> </content>
+  </Tab>
+</Tabs>

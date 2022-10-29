@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+  <Tab>
+   	<tabid>Gran_Turismo_7</tabid>
+   	<tabname>Editorial Review</tabname>
+   	<content_href>article1.part.html</content_href>
+   	<content> </content>
+  </Tab>
+  
+  <Tab>
+    <heading>Fifa 22</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/2.png</storyimg_href>
+    <content></content>
+    <article_href>article2.part.html</article_href>
+    <summary></summary>
+    <link></link>
+    <linktitle>Find out More...</linktitle>
+  </Tab>
+  
+   <Tab>
+    <heading>FORNTITE</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/3.png</storyimg_href>
+    <content></content>
+    <article_href>article3.part.html</article_href>
+    <summary></summary>
+    <link></link>
+    <linktitle>Find out More...</linktitle>
+  </Tab>
+  
+  <Tab>
+    <heading>NBA 2K22</heading>
+    <tagline></tagline>
+    <storyimg_href>ph/4.png</storyimg_href>
+    <content> </content>
+    <article_href>article4.part.html</article_href>
+    <summary> </summary>
+    <link></link>
+    <linktitle>Find out More...</linktitle>
+  </Tab>
+  
+</Tabs>

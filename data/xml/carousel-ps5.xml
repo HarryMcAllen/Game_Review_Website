@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Images>
+
+  <Image>
+    <img_href>ps5_pic1.jpg</img_href>
+    <title></title>
+    <lead></lead>
+  </Image>
+  
+  <Image>
+    <img_href>ps5_controller.jpg</img_href>
+    <title></title>
+    <lead></lead>
+  </Image>
+  
+  <Image>
+    <img_href>ps5_sideways.jpg</img_href>
+    <title></title>
+    <lead></lead>
+  </Image>
+  
+</Images>
